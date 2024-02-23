@@ -1,7 +1,7 @@
 [![Foo](https://img.shields.io/badge/version-1.0-brightgreen)](#versions)
 [![Foo](https://img.shields.io/badge/website-eternaldev.ru-red)](https://eternaldev.ru)
 [![Foo](https://img.shields.io/badge/Telegram-eternaldev__ru-blue)](https://t.me/eternaldev_ru)
-[![Foo](https://img.shields.io/youtube/views/HI4E4ZCWdIk?style=social)](https://www.youtube.com/watch?v=rogzjjBFvnY)
+[![Foo](https://img.shields.io/youtube/views/rogzjjBFvnY?style=social)](https://www.youtube.com/watch?v=rogzjjBFvnY)
 
 # edMeteo - метеостанция для "Народного мониторинга"
 
